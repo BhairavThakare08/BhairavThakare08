@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**BhairavThakare08/BhairavThakare08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Bhairav Thakare
 
-Here are some ideas to get you started:
+🎓 AI & Data Science Student  
+💻 Python Developer  
+📊 Learning Machine Learning & Data Science  
+🤖 Exploring LLMs & Generative AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- Python
+- NumPy, Pandas
+- Machine Learning
+- SQL
+- Data Visualization
+
+---
+
+## 📚 Currently Learning
+- Deep Learning
+- LLMs (Large Language Models)
+- Power BI
+
+---
+
+## 🎯 Goals
+- Become a AI - LLM Engineer
+- Build real-world AI projects
+- Contribute to Open Source
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/bhairav-thakare-528137325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
