@@ -30,20 +30,12 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BhairavThakare08&show_icons=true&theme=radical)
-
----
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BhairavThakare08)
 
 ---
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhairavThakare08&layout=compact)
-
----
 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
