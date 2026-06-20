@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="AI Robot" width="380" src="https://media.giphy.com/media/AGOPaltgJ1mLSyKKQK/giphy.gif" />
+<img align="right" alt="AI Robot" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🙋‍♂️ About Me
 
